@@ -1,2 +1,2 @@
-# Aplikasi-Cuci-Sepatu
+Sistem Informasi Booking Cuci Sepatu 
 Kelompok 1
