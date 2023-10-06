@@ -1,5 +1,5 @@
 <h1>Sistem Informasi Booking Cuci Sepatu</h1>
-Project ini dibuat dengan tujuan memenuhi tugas Pengelolaan Proyek Sis.Informasi 
+Project ini dibuat dengan tujuan untuk memenuhi tugas Pengelolaan Proyek Sis.Informasi 
 
 <h2>Tujuan</h2>
 
